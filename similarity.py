@@ -1,6 +1,5 @@
 """
 文本相似度计算模块
-算法difflib.SequenceMatcher
 结果范围 [0, 1]
 """
 

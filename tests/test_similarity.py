@@ -5,7 +5,6 @@
 """
 
 import pytest
-from pathlib import Path
 
 from similarity import (
     read_text,
